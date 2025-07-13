@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+ENV/
+# Vector Store Data
+vector_store/
+# IDE specific
+.idea/
+.vscode/

@@ -1,0 +1,6 @@
+openai
+sentence-transformers
+chromadb
+python-dotenv
+numpy
+requests

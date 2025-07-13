@@ -1,0 +1,40 @@
+{
+  "offer_id": "AN-0001",
+  "creation_date": "2023-10-21",
+  "valid_until_date": "2023-12-19",
+  "offer_title": "Dummy-title",
+  "client_name_anonymized": "dummy.....", 
+  "client_industry_anonymized": "dummy.....", 
+  "contact_person_internal": "dummy.....",
+  "offer_type": "Custom/Complex", 
+  "project_focus_tags": [
+    "dummy....."
+  ],
+  "total_price_chf_excl_vat": 110.00,
+  "total_price_chf_incl_vat": 120.65,
+  "currency": "CHF",
+  "services_offered": [ 
+    "AI Content Generation"
+  ],
+  "positions": [
+    {
+      "position_id": "1",
+      "position_title": "dummy.....",
+      "description": "dummy.....",
+      "quantity": 1.00,
+      "unit_price_chf": 50.00,
+      "total_price_chf": 50.00,
+      "service_tags": ["dummy....."]
+    },
+    {
+      "position_id": "2",
+      "position_title": "dummy.....",
+      "description": "dummy.....\ndummy.....",
+      "quantity": 1.00,
+      "unit_price_chf": 50.00,
+      "total_price_chf": 50.00,
+      "service_tags": ["dummy.....", "dummy....."]
+    },
+
+  ]
+}
