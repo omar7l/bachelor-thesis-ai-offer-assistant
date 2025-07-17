@@ -2,16 +2,10 @@
 import os # <--- ADDED THIS
 
 INTERNAL_HOURLY_RATES = {
-    "Default": 180,
-    "Strategy & Concept": 180,
-    "AI/ML Development": 200,
-    "MVP Development": 160,
-    "ASO & App Ads": 150,
-    "LinkedIn Campaign": 140,
-    "CRM Setup & Automation": 170,
-    "Data Migration": 160,
-    "System Evaluation": 175,
-    "Training & Handover": 130
+    "Default": 100,
+    "Strategy & Concept": 100,
+    "xyz....": 100,
+    "xyz..": 60 # Here the service areas & correct hourly raties shuld be inputtet
 }
 
 TYPICAL_SERVICE_AREAS = list(INTERNAL_HOURLY_RATES.keys())
